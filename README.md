@@ -35,7 +35,7 @@ if (input("TAMBAHKAN DATA (Y/T)?") == ''):
 
 Setelah memasukan syntax diatas dan kalian run, maka akan mendapatkan hasil output seperti gambar dibawah ini
 
-![praktikum4](foto92/hasil92.PNG)<br>
+![praktikum4](foto92/tambah92.PNG)<br>
 ________________________________________________________________________________________________________________________________________
 
 Setelah mengerjakan beberapa soal diatas, selanjutnya ada beberapa syntax yang saya tambahkan agar tampilan akhir dari ouput saya menjadi sama persis seperti yang ditunjukan oleh dosen saya. Oleh karena itu saya membutuhkan syntax seperti ini
@@ -70,8 +70,7 @@ print("==================================================================")
 
 Setelah memasukan syntax diatas dan kalian run, maka akan mendapatkan hasil output seperti gambar dibawah ini
 
-![TABEL 4](https://user-images.githubusercontent.com/72906579/100140013-ee364800-2ec2-11eb-97c8-97575e89fdd5.jpeg)
-
+![praktikum4](foto92/hasil92.PNG)<br>
 ____________________________________________________________________________________________________________________________________________
 Lanjut pada soal terakhir, yang dimana disini saya diminta untuk membuat sebuah Flowchart dari diatas
 
